@@ -12,3 +12,5 @@ Mentoria #6 | Projeto - Parte 2: Acessando e persistindo dados com SQL Server (S
 ...
 Mentoria #9 | Projeto - Parte 5: Abstraindo os domínios da API com foco em Micro-serviços<br>
 
+[Endpoints documentation: OpenAPI/Swagger](http://localhost:8080/swagger-ui.index.html)
+
