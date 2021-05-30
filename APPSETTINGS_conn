@@ -1,1 +1,1 @@
-String value1 = System.getenv("DB_CONNECT_PROFILE");
+String DB_CONNECT_PROFILE = System.getenv("DB_CONNECT_PROFILE");
