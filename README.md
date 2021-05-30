@@ -1,4 +1,7 @@
+[![Build and deploy WAR app to Azure Web App - mercadinho](https://github.com/AndrehAguiar/mercadinho-avanade/actions/workflows/main_mercadinho.yml/badge.svg?branch=main)](https://github.com/AndrehAguiar/mercadinho-avanade/actions/workflows/main_mercadinho.yml)
+
 # Scrum
+
 CODE ANYWHERE – MENTORIA #4  |  Projetos Ágeis com Scrum!
 =======
 # Avanade DIO - Code Anywhere 
