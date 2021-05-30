@@ -1,2 +1,0 @@
-String DB_CONNECT_PROFILE = System.getenv("DB_CONNECT_PROFILE");
-String DB_PASS = System.getenv("DB_PASS");
