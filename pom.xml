@@ -60,29 +60,6 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
-            <plugin>
-                <groupId>com.heroku.sdk</groupId>
-                <artifactId>heroku-maven-plugin</artifactId>
-                <version>3.0.3</version>
-            </plugin>
-            <plugin>
-                <groupId>com.microsoft.azure</groupId>
-                <artifactId>azure-webapp-maven-plugin</artifactId>
-                <version>1.14.0</version>
-                <configuration>
-					<appName>mercadinho-avanade</appName>
-                    <deployment>
-                        <resources>
-                            <resource>
-                                <directory>${project.basedir}/target</directory>
-                                <includes>
-                                    <include>*.war</include>
-                                </includes>
-                            </resource>
-                        </resources>
-                    </deployment>
-                </configuration>
-            </plugin>
         </plugins>
     </build>
 
