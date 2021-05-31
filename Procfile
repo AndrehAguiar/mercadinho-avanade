@@ -1,1 +1,1 @@
-web java $JAVA_OPTS -jar ./target/artifacts/api_jar/api.jar ${WEBAPP_RUNNER_OPTS} --port $PORT ./target/api-0.0.1-SNAPSHOT.war
+web java $JAVA_OPTS -jar target/artifacts/api_jar/api.jar ${WEBAPP_RUNNER_OPTS} --port $PORT ./target/api-0.0.1-SNAPSHOT.war
